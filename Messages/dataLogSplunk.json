@@ -1,0 +1,14 @@
+{
+  "Message 1": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:49:52Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "TelemetryDataLog_1": "1\tH\t05/08/2020 10:41:51.159\tPOWER ON",
+      "TelemetryDataLog_2": "3\tC\t05/08/2020 10:41:51.159\tOS Log - Successful - OS_Log_Initialize - 183",
+      "TelemetryDataLog_3": "4\tC\t05/08/2020 10:41:51.159\tOS Message Queue - Successful - OS_MessageQueue_Initialize - 123",
+      "TelemetryDataLog_4": "5\tC\t05/08/2020 10:41:51.175\tOS Resource - Successful - OS_Resource_Initialize - 115"
+    }
+  }
+}

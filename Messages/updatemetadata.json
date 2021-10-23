@@ -1,0 +1,90 @@
+{
+	"Idle": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Idle",
+		"protocol_name": "Routine Surgical A",
+		"reagent_name": "Alcohol",
+		"timestamp": "2020-07-03T11:47:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	},
+	"Flush Complete": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Flush Complete",
+		"protocol_name": "Routine Surgical A",
+		"reagent_name": "Alcohol",
+		"timestamp": "2020-07-02T11:47:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	},
+	"Flushing": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Flushing",
+		"protocol_name": "Routine Surgical A",
+		"reagent_name": "Formalin",
+		"timestamp": "2020-07-03T11:47:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	},
+	"Process Complete": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Process Complete",
+		"protocol_name": "Routine Surgical A",
+		"reagent_name": "Formalin",
+		"timestamp": "2020-07-03T07:47:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	},
+	"Processing": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Processing",
+		"protocol_name": "Routine Surgical A",
+		"reagent_name": "Formalin",
+		"timestamp": "2020-07-01T01:41:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	},
+	"Service": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Service",
+		"protocol_name": "Routine Surgical A",
+		"reagent_name": "Formalin",
+		"timestamp": "2020-07-01T11:47:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	},
+	"Stopped": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Stopped",
+		"protocol_name": "Routine Surgical A",
+		"reagent_name": "Formalin",
+		"timestamp": "2020-07-03T11:47:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	},
+	"Hold": {
+		"id": "1",
+		"device_id": "revos-asia-device555",
+		"request": "updatemetadata",
+		"chamber_status": "Hold",
+		"protocol_name": "Routine Surgical B",
+		"reagent_name": "Ethane",
+		"timestamp": "2020-07-03T11:47:04Z",
+		"timezone": "+05:30",
+		"endTime": "09:35 Thu 08/30/2020"
+	}
+}

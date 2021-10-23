@@ -1,0 +1,41 @@
+{
+  "Voltage Under": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:39:50Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "error_code_index": "1",
+      "error_code": "101",
+      "description": "Fault Battery Voltage Under",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Voltage Over": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:41:06Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "error_code_index": "1",
+      "error_code": "201",
+      "description": "Fault Battery Voltage Over",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Voltage Zero": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:41:21Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "error_code_index": "1",
+      "error_code": "1",
+      "description": "Fault Battery Voltage Zero",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  }
+}

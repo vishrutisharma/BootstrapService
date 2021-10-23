@@ -1,0 +1,67 @@
+{
+  "Process Complete": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:44:00Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "activity_code_index": "1",
+      "activity": "process_complete",
+      "description": "Process Complete",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Process End": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:44:53Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "activity_code_index": "1",
+      "activity": "process_end",
+      "description": "Process End",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Mains On": {
+    "id": "1",
+    "device_id": "revos-asia-device555",    
+    "timestamp": "2020-06-03T11:45:22Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "activity_code_index": "1",
+      "activity": "mains_on",
+      "description": "Mains On",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Mains Off": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:45:50Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "activity_code_index": "1",
+      "activity": "mains_off",
+      "description": "Mains Off",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Access Logged In": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:46:07Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "activity_code_index": "1",
+      "activity": "access_loggedin",
+      "description": "Access Logged In",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  }
+}

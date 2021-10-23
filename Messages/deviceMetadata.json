@@ -1,0 +1,13 @@
+{
+  "Message 1": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:49:52Z",
+    "timezone": "+05:30",
+    "software_version": "1.0.0",
+    "firmware_version": "1.0.0",
+    "service_region": "1",
+    "commercial_region": "1",
+    "device_timezone": "+05:30"
+  }
+}

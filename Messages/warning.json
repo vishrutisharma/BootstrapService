@@ -1,0 +1,41 @@
+{
+  "Temperature Over": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:42:31Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "error_code_index": "1",
+      "error_code": "1",
+      "description": "WARN Chamber Temperature Over",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Temperature Under": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:43:09Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "error_code_index": "1",
+      "error_code": "1",
+      "description": "WARN Chamber Temperature Under",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  },
+  "Temperature Zero": {
+    "id": "1",
+    "device_id": "revos-asia-device555",
+    "timestamp": "2020-06-03T11:43:35Z",
+    "timezone": "+05:30",
+    "eventParameters": {
+      "error_code_index": "1",
+      "error_code": "1",
+      "description": "WARN Chamber Temperature Zero",
+      "commercial_region": "1",
+      "service_region": "1"
+    }
+  }
+}
